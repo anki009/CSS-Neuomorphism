@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(104, 114, 114);
+}
+#root {
+  margin: auto;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  display: block;
+  text-decoration: none;
+  font-size: 2rem;
+  width: 250px;
+  text-align: center;
+  padding: 15px;
+  background-color: rgb(120, 236, 151);
+  margin: 1rem;
+  color: rgb(100, 23, 136);
+  box-shadow: 5px 5px 15px rgb(43, 155, 63);
+}
